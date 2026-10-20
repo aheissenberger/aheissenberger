@@ -22,4 +22,4 @@ between both sides, and I still write the code.
 
 ## Elsewhere
 
-[heissenberger.at](https://www.heissenberger.at) · [LinkedIn](https://www.linkedin.com/in/andreasheissenberger/) · [Bluesky](https://bsky.app/profile/andreas.heissenberger.at) · X [@aheissenberger](https://x.com/aheissenberger) · [/dev/null](https://dev-null.sh/@aheissenberger)
+[heissenberger.at](https://www.heissenberger.at) · [LinkedIn](https://www.linkedin.com/in/andreasheissenberger/) · [Bluesky](https://bsky.app/profile/andreas.heissenberger.at) ·  [X](https://x.com/aheissenberger) · [/dev/null](https://dev-null.sh/@aheissenberger)
